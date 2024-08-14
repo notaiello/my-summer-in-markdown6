@@ -25,6 +25,8 @@
 
 [CLICK here to read about cats](https://en.wikipedia.org/wiki/Cat)
 
+![Picture of cat](cat.png)
+
 
 
 
